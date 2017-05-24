@@ -7,7 +7,7 @@ class Backend extends EventEmitter{
       {
         name:'Call dhobi for salary.',
         created:new Date(2017,4,24,6,0),
-        due:new Date(2017,4,25,7,0),
+        due:new Date(2017,4,29,7,0),
 
       }
     ]
@@ -16,13 +16,13 @@ class Backend extends EventEmitter{
       {
         name:'Finish user auth.',
         created:new Date(2017,4,24,5,0),
-        due:new Date(2017,4,25,10,0),
+        due:new Date(2017,4,29,10,0),
 
       },
       {
         name:'Submit project.',
         created:new Date(2017,4,24,10,6),
-        due:new Date(2017,4,25,8,30),
+        due:new Date(2017,4,30,8,30),
 
       }
     ]
