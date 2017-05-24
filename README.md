@@ -22,4 +22,4 @@ gulp
 ### refresh index.html
 
 #### see app in action
-https://thisisdevs.github.io/ReactToDo/
+https://thisisdevs.github.io/ToDoReact/
